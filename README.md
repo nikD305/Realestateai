@@ -179,15 +179,6 @@ The website includes:
 - Efficient animations
 - Fast loading times
 
-## 📞 Support
-
-For support or questions, please contact:
-
-- **Email**: info@parasflorett.com
-- **Phone**: +91 98765 43210
-- **Address**: Cyber City, Gurgaon, Haryana 122002, India
-
-## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
