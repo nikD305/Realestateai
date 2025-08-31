@@ -1,0 +1,40 @@
+{
+  "name": "premium-real-estate-website",
+  "version": "1.0.0",
+  "description": "Premium Real Estate Website with modern design and functionality",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.19",
+    "autoprefixer": "^10.4.21",
+    "framer-motion": "^10.18.0",
+    "lucide-react": "^0.292.0",
+    "next": "^14.2.32",
+    "postcss": "^8.5.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-intersection-observer": "^9.16.0",
+    "tailwindcss": "^3.4.17"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.11",
+    "@types/react": "^18.3.24",
+    "@types/react-dom": "^18.3.7",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^14.2.32",
+    "typescript": "^5.9.2"
+  },
+  "keywords": [
+    "real-estate",
+    "website",
+    "premium",
+    "nextjs"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
